@@ -1,7 +1,7 @@
 The story of Baoyu and Daiyu and Baochai
 
-Baoyu is a spoiled child in a wealthy family.
-
+Baoyu is a spoiled child in a wealthy family. His family secured some official positions for years, such as Baoyu's father, Zheng Jia.
+But the family cannot thrive forever, especially since the expenditure is huge and their lives really depend on the command of the emperor.
 
 I want to add a new branch then commit it to the master branch.
 
